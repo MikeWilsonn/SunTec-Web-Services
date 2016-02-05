@@ -1,0 +1,2 @@
+# SunTec-Web-Services
+SunTec India, a full-cycle IT Outsourcing Company, holds more than15 years of experience in delivering a host of Services and Solutions related with Data Entry and Data Management, eCommerce Product Data Management &amp; back-office services, ePublising, Document Conversion and Digitization, Advanced Application Development &amp;Cloud Solutions, Content and Digital Marketing, Image Editing and Dedicated Hiring Solutions to global clientele.
